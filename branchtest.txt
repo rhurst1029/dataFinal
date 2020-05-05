@@ -5,3 +5,9 @@ Wouldnt show if I checked out back to master!
 
 
 Successfully merged testbranch with master. Going to check if this file shows up in terminal then check if branched files don't show up when on masterbranch.
+
+
+
+
+
+Checking that changes saved here are equal to a commit and push.
