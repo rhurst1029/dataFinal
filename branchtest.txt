@@ -1,0 +1,7 @@
+
+I made  a branch, it shows in notebook without merging branch to master!
+Wouldnt show if I checked out back to master!
+
+
+
+Successfully merged testbranch with master. Going to check if this file shows up in terminal then check if branched files don't show up when on masterbranch.
